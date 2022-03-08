@@ -1,3 +1,12 @@
+Build:
+You can compile this program if you have osx with just 3 simple steps with CMake/make:
+1. add/change the lines below the CMakeLists.txt:
+set(cryptopp_DIR x64-osx/share/cryptopp)
+include_directories(x64-osx)
+2. Make sure that you have Boost install on your os. If not, you can install it using brew.
+3. Compile.
+
+
 Follow this steps:
 1. register both clients.
 2. get the clients list (on both clients).
