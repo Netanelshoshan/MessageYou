@@ -2,8 +2,8 @@ all:
 	cmake -S. -B build
 	cmake --build build
 	cp build/client .
-	cp -r client netanel/
-	cp -r client yafit/
+	cp -r client client1/
+	cp -r client client2/
 clean:
-	rm -r build netanel/me.info yafit/me.info
+	rm -r build client1/me.info client2/me.info
 	
