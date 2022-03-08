@@ -20,7 +20,9 @@ add_executable(client
         Response.cpp
         Response.h
         UsersList.cpp
-        UsersList.h)
+        UsersList.h
+        Utils.cpp
+        Utils.h)
 
 find_package(Boost 1.78.0 REQUIRED COMPONENTS system filesystem random unit_test_framework)
 find_package(cryptopp CONFIG REQUIRED)
