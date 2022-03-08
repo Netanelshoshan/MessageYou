@@ -1,6 +1,6 @@
-# MessageYou
-An end-to-end encrypted multiuser messaging service. (Like WhatsApp / Facebook messanger).\
-I'm using Crypto++ library for encryption. The client will be written in C++ while the server in Python.
+# MessageU-20937_final_project
+This is a client-server, end-to-end encrypted chat project with specified binary protocol over TCP.
 
-Stay tuned if you'd like to see this application in action 😜🤓
+the client program written in C++ and uses boost library for networking and CryptoPP for encryption.
 
+the server program written in Python and demonstrates working with selectors and sqlite

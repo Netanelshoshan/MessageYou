@@ -1,0 +1,3 @@
+/Users/netanelshoshan/mess-u/client/build/CMakeFiles/client.dir
+/Users/netanelshoshan/mess-u/client/build/CMakeFiles/edit_cache.dir
+/Users/netanelshoshan/mess-u/client/build/CMakeFiles/rebuild_cache.dir

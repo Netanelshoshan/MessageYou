@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="client" targetName="client" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2825c80d-9c79-4da7-ae26-1b4d9e0aeb0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/cs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AI-intro/assignments/m11/search/.idea/search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data-Structures-And-Algorithms/2020a/MMN13-JAVA/MMN13-JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data-Structures-And-Algorithms/exam-ds/20407 - מבני נתונים ומבוא לאלגוריתמים/Mamans/2020a/MMN13-JAVA/MMN13-JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning/.idea/Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning/BaseUser.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning/a.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning/a.dSYM/Contents/Resources/DWARF/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/server.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/ex11/Usocial/.idea/Usocial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/ex12/m12/.idea/m12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/ex13/.idea/m13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/.idea/MessageU.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/.idea/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/Exceptions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/Handler.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/Handler.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/Request.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/Request.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/Response.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/Response.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/Users.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/Users.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/.cmake/api/v1/reply/cache-v2-17b75be8940c197445d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3eac1de4052d3643088f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/.cmake/api/v1/reply/target-client-Debug-ecc75c8d3c75753acce2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/client.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/cmake-build-debug/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/constants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/client/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/.idea/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/Request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/server.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/MessageU/server/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/Mahrozet.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/chat_client.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/chat_message.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/chat_server.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e9a717f4bcd82da380fe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Mahrozet.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignments/m15/untitled/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../learning-python/.idea/learning-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lecture/.idea/lecture5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-Intro/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-Intro/content/listsAndRecursion/tests_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Q2/Q2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/appI/appI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/appK/appK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch01/ch01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch02/ch02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch03/ch03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch04/ch04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch05/ch05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch06/ch06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch07/ch07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch08/ch08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch09/ch09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch10/ch10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch11/ch11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch12/ch12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch13/ch13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch14/ch14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch15/ch15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch16/ch16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch17/ch17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch18/ch18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch19/ch19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch20/ch20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch21/ch21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch22/ch22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/1/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/1/out/production/1/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/2/2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/2/out/production/2/2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/3/3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch23/ch23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch24/ch24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch25/TipCalculator/TipCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch25/Welcome/Welcome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch29/AddressBook/AddressBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch29/AddressBook/build/build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch29/BooksDatabaseExamples/BooksDatabaseExamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/ch29/BooksDatabaseExamples/build/build1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/books/code_examples/code_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/ex15/ex15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/ex16-1/ex16-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/tests/tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.cs.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced-English-2/.Maman 15 Revised Jan2020.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced-English-2/finalExam/.text.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced-English-2/mmn11/.Maman 11 Text org.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced-English-2/mmn11/.mmn11-DONE.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced-English-2/mmn13/.The First Nanochips Questions    Nov 2019.doc.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced-English-2/mmn13/.The First Nanochips Text  copy.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced-English-2/mmn13/.mmn_13Eng.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Utils.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.2/CMakeCCompiler 2.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.2/CompilerIdCXX/CMakeCXXCompilerId 2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/client.dir/compiler_depend 2.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Handler.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Handler.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Request.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Request.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Request.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Request.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Utils.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/Utils.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/compiler_depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/crypto_handler.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/crypto_handler.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/crypto_handler.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/crypto_handler.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/handler.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/handler.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/client" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/me.info" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/me.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_handler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_handler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_handler.h" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_handler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/handler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handler.h" beforeDir="false" afterPath="$PROJECT_DIR$/handler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discrete-Math/Books/.בדידה-מבוא ללוגיקה.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discrete-Math/Books/.בדידה-תורת הגרפים.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discrete-Math/ממנים/2019c/.כל המטלות חוץ מ16 סופי!.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discrete-Math/ממנים/2020a/.ממן 16 -- סיבה להורדת נקודה.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discrete-Math/סיכומים/גרפים/.fixed_cheat_sheet.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discrete-Math/סיכומים/גרפים/.תורת הגרפים 1.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discrete-Math/סיכומים/קבוצות/.עוצמות סיכום שלי.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discrete-Math/סיכומים/קבוצות/.קבוצות בלי עוצמות.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discrete-Math/סיכומים/קומבינטוריקה/.comb_analogs.doc.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/Books/.Untitled.ipynb.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/Books/.ipynb_checkpoints/.Untitled-checkpoint.ipynb.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/Books/.אינפי 1 - אביב 2020.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.001.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.002.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.003.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.005.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.006.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.008.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.011.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.013.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.015.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 14/.017.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.001.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.002.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.003.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.004.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.005.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.006.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.007.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.008.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.009.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.010.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.011.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.012.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.014.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.015.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.016.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.017.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.018.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 15/.019.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.001.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.002.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.003.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.004.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.005.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.006.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.007.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.008.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.009.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.010.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.011.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.012.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.013.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.014.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/old-mamans/ממנים/2018ב/maman 16/.015.jpg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-1/summaries/.calculus1_andy.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-2/prev-mmns/01/solution-01 2.PDF" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Infi-2/prev-mmns/01/solution-01 2.PDF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-2/sums/.אינפי 2 חוברת משפטים.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Infi-2/sums/.אינפי 2מ משפטים.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/.idea/.Java.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/listsAndRecursion/.tests_java.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/prof.-presentation/Unit 11/.Lesson_8 2.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/prof.-presentation/Unit 11/.Lesson_8.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/prof.-presentation/Unit 11/.class_object_and_interface_comparable_1_0 2.doc.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/prof.-presentation/Unit 11/.class_object_and_interface_comparable_1_0.doc.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/prof.-presentation/Unit 16/.שלושת המיונים בצורה רקורסיבית_1 2.doc.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/prof.-presentation/Unit 16/.שלושת המיונים בצורה רקורסיבית_1.doc.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/prof.-presentation/Unit 20/.unit20_1 2.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/prof.-presentation/Unit 20/.unit20_1.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/.Lesson_3.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/.merge sort.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/.stack, queue and binary tree.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/Lesson 1 printable.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/Lesson 2 printable.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/Lesson_13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/Lesson_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/Lesson_6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/Lesson_7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/Lesson_8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות אלי קורן/Lesson_9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 1/1.1 - מושגי יסוד בעולם המחשבים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 1/1.2 - מבנה תכנית בשפת Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 1/1.3 - שלבי התכנות ב-Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 1/1.4 - כתיבת תכנית - סוגי שגיאות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 1/1.5 - תכנות מונחה עצמים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 10/10.1 רקורסיה - פתיחה ודוגמאות ראשונות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 10/10.2 רקורסיה - המשך.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 10/10.3 רקורסיה במערכים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 10/10.4 רקורסיה במערכים - מיון מהיר.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 10/10.5 רקורסיה במערכים - דוגמאות מתקדמות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 10/10.6 רקורסיה - backtracking.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 11/11.1 רשימות - פתיחה.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 11/11.2 רשימות מקושרות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 11/11.3 רשימה דו-סטרית ורשימה מעגלית.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 11/11.4 רקורסיה ברשימות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 11/11.5 מיון מיזוג ברשימות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 12/12.1 מחסנית.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 12/12.2 תור.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 12/12.3 עצים בינריים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 12/12.4 עץ חיפוש בינרי.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.1 -משתנים 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.1 -משתנים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.10 - בקרת זרימה - דוגמא מסכמת 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.10 - בקרת זרימה - דוגמא מסכמת.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.2 - ביטויים 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.2 - ביטויים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.3 - המרות 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.3 - המרות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.4 - תכניות אינטראקטיביות ומחלקות מובנות 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.4 - תכניות אינטראקטיביות ומחלקות מובנות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.5 - ביטויי בקרת זרימה 1 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.5 - ביטויי בקרת זרימה 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.6 -ביטויי בקרת זרימה 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.6 -ביטויי בקרת זרימה 3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.7 - ביטויי בקרת זרימה 3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.8 - משתנה מטיפוס String 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.8 - משתנה מטיפוס String.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.9 - השוואות נתונים 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 2/2.9 - השוואות נתונים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 3/3.1 - שימוש במחלקות ואובייקטים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 3/3.2 - חבילות וייבוא מחלקות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 3/3.3 - שימוש במחלקה - דוגמא נוספת.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.1- מחלקות 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.1- מחלקות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.10 - Aliasing 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.10 - Aliasing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.11 - מימוש המחלקה Point 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.11 - מימוש המחלקה Point.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.12 - מחלקה המכילה מחלקה 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.12 - מחלקה המכילה מחלקה.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.13 - מימוש Circle - חלק II 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.13 - מימוש Circle - חלק II.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.14 - מימוש Circle - חלק III 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.14 - מימוש Circle - חלק III.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.15 - משתנים ושיטות סטטיות 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.15 - משתנים ושיטות סטטיות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.2- שיטות 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.2- שיטות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.3- מחלקות - מימוש 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.3- מחלקות - מימוש.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.4-מחלקות - העמסת שיטות 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.4-מחלקות - העמסת שיטות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.5-מחלקות - כימוס 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.5-מחלקות - כימוס.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.6- ייצוג משתנים בזכרון 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.6- ייצוג משתנים בזכרון.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.7 - השוואות ועוד 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.7 - השוואות ועוד.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.8 - השוואות בין אובייקטים 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.8 - השוואות בין אובייקטים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.9 - הדפסת אובייקטים 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 4/4.9 - הדפסת אובייקטים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 5/5.1-לולאת while.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 5/5.2- לולאת dowhile 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 5/5.2- לולאת dowhile.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 5/5.3- לולאת for.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 5/5.4- FencePost.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 5/5.5- לולאות מקוננות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 6/6.1 - מערכים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 6/6.2 - מערכים בזיכרון.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 6/6.3 - מערכים ולולאות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 6/6.4 - מערך של אובייקטים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 6/6.5 - מערכים דו מימדיים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 6/6.6 - מערכים דו מימדיים - דוגמא.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 7/7.1- ירושה I.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 7/7.2 - ירושה II.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 7/7.3 - הרשאות גישה.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 8/8.1- פולימורפיזם.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 8/8.2- מחלקות אבסטרקטיות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 8/8.3- ממשקים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 8/8.4- overriding והמחלקה Object.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 9/9.1 יעילות - הקדמה.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 9/9.2 יעילות - שיפורים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 9/9.3 יעילות - שיפור בקבוע ובסדר גודל.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 9/9.4 יעילות - מיון מערך.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 9/9.5 יעילות - דוגמאות 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 9/9.6 יעילות - דוגמאות 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-Intro/content/מצגות/יחידה 9/9.7 יעילות - סיבוכיות מקום.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linear-Algebra-1/סיכומים/.אלגברה משפטים.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linear-Algebra-1/סיכומים/.סיכום אלגברה ליניארית 1.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linear-Algebra-1/סיכומים/.סיכום ליניארית1.xlsx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linear-Algebra-1/סיכומים/.פרקי הכנה ליניארית.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linear-Algebra-1/סיכומים/michaelSummaries/.CH_02.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linear-Algebra-1/סיכומים/michaelSummaries/.CH_06.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linear-Algebra-1/סיכומים/michaelSummaries/.CH_10.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linear-Algebra-1/סיכומים/michaelSummaries/.Lesson04-05.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linear-Algebra-1/�הרצאות אלגברה ליניארית - דוד צילג_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/Books/.book1.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/Books/.book2.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/Books/BookMISTAKES.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/modelim.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/חוברת הקורס-אוטומטים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/ממנים שהוגשו/M12-automata.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/ממנים שהוגשו/m11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/ממנים שהוגשו/ממן 11 אוטומטים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/סיכומים אוטומטים/Ofir - Summary.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/סיכומים אוטומטים/סיכום ב4 עמודים 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/סיכומים אוטומטים/סיכום ב4 עמודים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/סיכומים אוטומטים/סיכום הספרים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/סיכומים/Automata - Dan Carmon.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../automats/סיכומים/סיכום של כל הקורס.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/M11-compOrg.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/Note 12 Dec 2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/m12q4.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/mips1.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/.MMN13.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/.חוברת הקורס 2017ג.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/MMN_11_2017c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/MMN_11_2017c_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/MMN_12_2017c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/MMN_12_2017c_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/MMN_13_2017c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/MMN_14_2017c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/MMN_14_2017c_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/MMN_15_2017c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2017c/MMN_15_2017c_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2018a/.חוברת הקורס 2018א.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2018a/MMN_11_2018a_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2018a/MMN_12_2018a_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2018a/MMN_13_2018a_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2018a/MMN_14_2018a_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/2018a/MMN_15_2018a_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/MMN_11_2020a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/MMN_12_2020a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/MMN_13_2020a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/MMN_14_2020a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/MMN_15_2020a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/פתרונות מטלות 2020א-20201020/.MMN_11_2020a_sol.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/פתרונות מטלות 2020א-20201020/MMN_12_2020a_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/פתרונות מטלות 2020א-20201020/MMN_13_2020a_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/פתרונות מטלות 2020א-20201020/MMN_14_2020a_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020א-20201020/פתרונות מטלות 2020א-20201020/MMN_15_2020a_sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020ג-20201020/.MMN_13_2020c.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020ג-20201020/MMN_11_2020c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020ג-20201020/MMN_12_2020c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020ג-20201020/MMN_14_2020c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/mmns/prev-mmns/מטלות 2020ג-20201020/MMN_15_2020c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 1/.הערכת ביצועי המעבד.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 1/.הקדמה-ארגון המחשב 20471.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 1/Screen Shot 2020-10-20 at 19.09.28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 1/Screen Shot 2020-10-20 at 20.34.30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/.mips האסמבלי של מעבד ה.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/בניית רכיבים לוגיים (נספח B)  ונספח D מהספר-20201020/.appendix_D.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/בניית רכיבים לוגיים (נספח B)  ונספח D מהספר-20201020/בניית רכיבים לוגיים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/ייצוג מידע במחשב-20201020/.ייצוג מידע במחשב.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/ייצוג מידע במחשב-20201020/חזרה ייצוג מידע במחשב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/.MIPS Instruction set.xlsx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/MIPS ISA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/asm-coding-standard.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_ excercises_solutioun/no1_sol.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_ excercises_solutioun/no2_sol.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_ excercises_solutioun/no3sol.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_ excercises_solutioun/no4sol.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_ excercises_solutioun/no5_sol.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_execrcises/no1.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_execrcises/no2.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_execrcises/no3.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_execrcises/no4.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_execrcises/no5.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_execrcises/תרגיל  5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_execrcises/תרגיל 3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_execrcises/תרגיל 4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/lab_execrcises/תרגילים1 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/הצגה ראשונית תכנות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/חומר עזר נוסף/.MARS_guid.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/חומר עזר נוסף/.MipsInstructionSetReference.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/חומר עזר נוסף/MIPS-Instruction-formats.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/חומר עזר נוסף/MIPS_Green_Card.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/חומר עזר נוסף/mips-Quick-Reference.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/חומר עזר נוסף/מימוש משפטי תנאי.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/סעיף 2.6-20201020/קישוריםdocx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/תכנות מתקדם (מחסנית פרוצדורות מקרו)-20201020/.הידור קישור הרצה.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/תכנות מתקדם (מחסנית פרוצדורות מקרו)-20201020/.המחסנית.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/תכנות מתקדם (מחסנית פרוצדורות מקרו)-20201020/.מקרו.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/תכנות מתקדם (מחסנית פרוצדורות מקרו)-20201020/.פרוצדורות.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 2/תכנות מתקדם (מחסנית פרוצדורות מקרו)-20201020/.שאלות ותשובות קצרות.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/.פסיקות חריגות.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/Chapter_04 - pipeline1 - 2016c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/Chapter_04 - pipeline2 - 2016c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/Chapter_04 - single cycle - 2016c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/מעבד חד מחזורי single cycle CPU-20201020/.מעבד החד מחזורי.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/מעבד חד מחזורי single cycle CPU-20201020/תרגול מעבד חד מחזורי.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/צנרת pipeline-20201020/.pelinine exe I.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/צנרת pipeline-20201020/.pipeline exe II.ppt.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/צנרת pipeline-20201020/.pipeline exe III.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/צנרת pipeline-20201020/.צנרת חלק א.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 4/צנרת pipeline-20201020/.צנרת חלק ב.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 5/Chapter_05 - memory - 2016c.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 5/היררכיות זיכרון-20201020/.זיכרון מטמון.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/מצגות/פרק 5/היררכיות זיכרון-20201020/תרגילים זיכרון מטמון.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/סיכומים/ארגון המחשב - סיכום.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/סיכומים/סיכום המדריך והספר.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../computer-organization/סיכומים/סיכום הצנרה של מתן.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/Books/.book1.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/Books/.bookGuide.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/חוברת הקורס-מערכות בסיסי נתונים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/ממנים /console_2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/ממנים /console_4.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/ממנים /m11.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/ממנים /ממן 12 סופי.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/סיכום מערכות בסיסי נתונים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/אינדקסים וגיבוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/עיבוד שאילתות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/עצי B.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 1 שי תבור/.. . .  שיעור 1 שי תבור.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 1 שי תבור/.SQL 1.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 1 שי תבור/.מבוא לבסיסי נתונים.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 10 שי תבור/.. . .  . 10 . ..pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 10 שי תבור/.מבחן דוגמא.doc.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 10 שי תבור/עיבוד שאילתות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 2 שי תבור/.DDL.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 2 שי תבור/.PostgreSQL.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 2 שי תבור/.SQL 1(1).pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 2 שי תבור/.מערכות בסיסי נתונים שיעור 2 שי תבור.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 2 שי תבור/.תרגיל ב-SQL.doc.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 3 שי תבור/.. . .  שיעור 3 שי תבור.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 3 שי תבור/.SQL 2.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 3 שי תבור/.פונקציות וטריגרים.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 4 שי תבור/.אלגברת יחסים.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 4 שי תבור/.מערכות בסיסי נתונים שיעור 4 שי תבור.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 4 שי תבור/.תרגיל אלגברה.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 5 שי תבור/.. . .  שיעור 5 שי תבור.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 5 שי תבור/.תחשיב יחסים.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 5 שי תבור/.תרגיל באלגברה ותחשיב.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 6 שי תבור/.. . .  שיעור 6 שי תבור.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 6 שי תבור/.המרה לטבלאות.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 6 שי תבור/.מודל ישויות קשרים.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 7 שי תבור/.. . .  שיעור 7 שי תבור.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 7 שי תבור/.תיכון במסד נתונים.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 7 שי תבור/.תרגיל תיכון במסד נתונים.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 8 שי תבור/.. . .  שיעור 8 שי תבור.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 8 שי תבור/.תרגיל תיכון במסד נתונים.pptx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 8 שי תבור/אחסון ומבנה קבצים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 8 שי תבור/פירוקים וצורות נורמליות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 9 שי תבור /.מערכות בסיסי נתונים שיעור 9 שי תבור.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 9 שי תבור /אינדקסים וגיבוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-sys-concepts/שי תבור/מצגות/שיעור 9 שי תבור /עצי B.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/2015A-mmn-11a.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/M11-q4-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/M11-q5-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/M13-q4-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/M13-q5-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/mmn-12-sol1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/mmn15-q1-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/mmn15-q3-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/פתרונות/.mmn16_sol_20407_2015a_100.doc.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/פתרונות/M11-q4-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/פתרונות/M11-q5-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/פתרונות/M13-q4-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/פתרונות/M13-q5-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/פתרונות/mmn-12-sol1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/פתרונות/mmn15-q1-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/פתרונות/mmn15-q3-sol.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/שאלות/ממן 11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/שאלות/ממן 12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/שאלות/ממן 13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/שאלות/ממן 15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/שאלות/ממן 16.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2015a/שאלות/ממן 17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/.MMN11.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/.MMN12.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/.MMN13.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/.MMN14.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/.MMN15.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/.ממן 11 פתרון בציון 100.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/.ממן 12 בציון 99.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/.MMN13-JAVA.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/.idea/artifacts/MMN13_JAVA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/integers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/out/artifacts/MMN13_JAVA_jar/MMN13-JAVA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/out/production/MMN13-JAVA/DHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/out/production/MMN13-JAVA/IntegersReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/out/production/MMN13-JAVA/META-INF/.MANIFEST.MF.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/out/production/MMN13-JAVA/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/src/DHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/src/IntegersReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/src/META-INF/.MANIFEST.MF.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/MMN13-JAVA/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/2020a/חוברת הקורס.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/Algorithms.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/Books/.Algorithms-Intro.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/Books/.dbs-guide.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/Books/דלת.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/Books/פרק א.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/Books/פרק ב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/Books/פרק ג.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/Presentation08-hash.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/חוברת הקורס-מנמא.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/ממנים /mmn11-mnma .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/ממנים /ממ13מנמא.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/ממנים /ממן 12 מנמא.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/.מפגש 5.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/ADT-exercises.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות ג'ון מרברג 2016ב/מפגש 9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/1 - מבוא לאלגוריתמים.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/10 - מיון מבוסס השוואות.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/11- מיונים ליניארים.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/12 - מחסניות ותורים.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/13 - עצים בינארים.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/14 - טבלאות גיבוב.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/15 - עצי חיפוש.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/16 - הרחבת מבני נתונים.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/17 - עצים אדומים שחורים.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/2 - הוכחת נכונות.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/3 - יעילות אלגוריתמים.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/4 - חסמים אסימפטוטים.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/5 - נוסחאות נסיגה.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/6 - משפט האב.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/7 - ערימות.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/8 - מיון מהיר.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/אוסף שאלות לבחינה.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/1 - מבוא לאלגוריתמים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/10. חציונים וערכי מיקום.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/11-1 - מיון מבוסס השוואות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/11-2- מיונים ליניארים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/12 - מחסניות ותורים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/13 - עצים בינארים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/14 - טבלאות גיבוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/15 - עצים אדומים שחורים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/16 - הרחבת מבני נתונים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/2 - הוכחת נכונות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/3 - יעילות אלגוריתמים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/4 - חסמים אסימפטוטים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/5 - נוסחאות נסיגה.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/6 - משפט האב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/7 - מבני נתונים דינמיים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/8 - ערימות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/מצגות שי/מצגות שי/מצגות שי תבור/9 - מיון מהיר.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/3 - רקורסיה עדן רפאלוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/אלגוריתמים 1 עדן רפאלוב .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/חציונים וערכי מיקום 5 עדן רפאלוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/טבלאות גיבוב שיעור 8 עדן רפאלוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/יעילות וחסמים 2 עדן רפאלוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/מיון ליניארי 6 עדן רפאלוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/מיון מהיר 5 עדן רפאלוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/מנמא - מבני נתונים - ערימות - 4 עדן רפאלוב.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/עדן רפאלוב מבני נתונים רשימות מחסניות וטורים 7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/סיכומים-עדן/עדן רפאלוב עצים בינאריים 7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dbs-and-algos-intro/שמורת לולאה V2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../numeric-systems/mamans/.m11.pages.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../numeric-systems/mamans/.m12.pages.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../numeric-systems/mamans/.m14.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../numeric-systems/מבחן מערכות ספרתיות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/השלמות לחוברת הקורס.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/חוברת הקורס.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/ממ_ח 01 - פרקים 1+2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/ממ_ן 11 - פרקים 2+3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/ממ_ן 12 - פרק 4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/ממ_ן 13 - פרק 5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/ממ_ן 14 - פרק 6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/ממ_ן 15 - פרק 7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/פתרון 01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/פתרון 11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/פתרון 12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/פתרון 13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/פתרון 14.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/2014a/פתרון 15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/Books/.20425-5020.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/Books/.book1.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/Books/.book2.pdf.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/Exams.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/New Exams (2014+).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/New Exams.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/חוברת הקורס- הסתברות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/ממן 11 הסתברות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/ממן13הסתברות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/מצגות שיעורים/שיעור 2-הסתברות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/סיכומים/דף נוסחאות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/סיכומים/סיכום אינטגרלים.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/סיכומים/סיכום סדרות.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/סיכומים/‎⁨הוכחות לטענות לבחינה החל מ 2019א - 20180215⁩.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/סיכומים/‎⁨טבלה נורמלית 2013ב⁩.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../probabillity/סיכומים/‎⁨טענות להוכחה בבחינה החל מ 2019א - 20171204⁩.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Utils.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UsersList.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Response.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/constants.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/handler.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UsersList.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crypto_handler.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///usr/local/include/boost/asio/impl/io_context.ipp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Utils.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exceptions.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/handler.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///usr/local/include/boost/asio/buffer.hpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crypto_handler.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Response.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20rf83eDBZ5XzpjoCgeS8BSf2wF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="structure.view.defaults.are.configured" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="client" TARGET_NAME="client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="client" RUN_TARGET_NAME="client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2825c80d-9c79-4da7-ae26-1b4d9e0aeb0d" name="Changes" comment="" />
+      <created>1636807464452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636807464452</updated>
+      <workItem from="1636807467213" duration="1141000" />
+      <workItem from="1636993722922" duration="5265000" />
+      <workItem from="1640201777369" duration="1309000" />
+      <workItem from="1640433552454" duration="6482000" />
+      <workItem from="1643355342983" duration="1045000" />
+      <workItem from="1643362165943" duration="924000" />
+      <workItem from="1643363843685" duration="4381000" />
+      <workItem from="1643394895925" duration="561000" />
+      <workItem from="1644421899372" duration="10558000" />
+      <workItem from="1644571338742" duration="3518000" />
+      <workItem from="1644593702499" duration="13455000" />
+      <workItem from="1644940673762" duration="9100000" />
+      <workItem from="1645269417927" duration="37852000" />
+      <workItem from="1645704042489" duration="11963000" />
+      <workItem from="1645871257059" duration="472000" />
+      <workItem from="1645873431053" duration="14365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Main.cpp</url>
+          <line>57</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/handler.cpp</url>
+          <line>275</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/handler.cpp</url>
+          <line>277</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="CidrExceptionBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="handler.request-&gt;request_code" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
