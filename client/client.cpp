@@ -2,6 +2,14 @@
  * Author : Netanel Shoshan
  * This class is responsible all requests and responses and IO from
  * and to the client.
+ *
+ *
+ * TODO:
+ * try-catch handling for catching errors better at:
+ * requestBuilder()
+ * saveUserInfo()
+ * responseParser()
+ * printMessages()
  */
 #include <iostream>
 #include <fstream>

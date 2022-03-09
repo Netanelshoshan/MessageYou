@@ -1,5 +1,5 @@
-#ifndef MYEXCEPTIONS_HEADER
-#define MYEXCEPTIONS_HEADER
+#ifndef EXCEPTIONS_HEADER
+#define EXCEPTIONS_HEADER
 
 #include <exception>
 
