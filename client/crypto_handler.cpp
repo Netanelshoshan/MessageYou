@@ -1,4 +1,9 @@
-
+/**
+ * **** The encryption configuration used here is just for demonstration purposes only.****
+ * Using CBC mode in AES is not recommended and you should use GCM mode
+ * that provides AEAD.
+ * Another thing is the iv being always 0.
+ */
 
 #include "crypto_handler.h"
 #include "exceptions.h"
