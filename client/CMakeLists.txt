@@ -5,7 +5,7 @@ project(client)
 message(STATUS "start running cmake...")
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_FLAGS "-mrdrnd")
-set(cryptopp_DIR /Users/netanelshoshan/vcpkg/installed/x64-osx/share/cryptopp)
+set(cryptopp_DIR /Users/netanel/vcpkg/installed/arm64-osx/share/cryptopp)
 include_directories()
 add_executable(client
         constants.h

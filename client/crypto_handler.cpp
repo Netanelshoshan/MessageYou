@@ -113,7 +113,7 @@ bytes crypto_handler::decryptRSA(const bytes &cipher) {
  */
 char *crypto_handler::keygen(char *key, size_t size) {
     for (size_t i = 0; i < size; i += sizeof(unsigned int))
-        _rdrand32_step(reinterpret_cast<unsigned int *>(&key[i]));
+        rand_r(reinterpret_cast<unsigned int *>(&key[i]));
     return key;
 }
 

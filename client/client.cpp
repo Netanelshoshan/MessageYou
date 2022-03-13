@@ -378,7 +378,7 @@ void client::responseParser(Response *response) {
             break;
         case (GET_USER_LIST_SUCC):// code 2101 - get user list success.
             generateUserList(response->getPayload());
-            usersList->getUserList();
+            usersList->printUserList();
             break;
         case (GET_PUB_KEY_SUCC):
             keys->setPublicKey(*usersList, response->getPayload());

@@ -14,7 +14,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2825c80d-9c79-4da7-ae26-1b4d9e0aeb0d" name="Changes" comment="" />
+    <list default="true" id="2825c80d-9c79-4da7-ae26-1b4d9e0aeb0d" name="Changes" comment="modified crypto_handler to use random instead of _rdrand32_step for universal support. (Arm / x86)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsersList.h" beforeDir="false" afterPath="$PROJECT_DIR$/UsersList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/client.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client1/me.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client2/me.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_handler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_handler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_handler.h" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_handler.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,22 +50,19 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/crypto_handler.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file:///usr/local/include/boost/asio/impl/io_context.ipp" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Response.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file:///usr/local/include/boost/asio/buffer.hpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/exceptions.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/constants.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Response.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crypto_handler.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utils.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crypto_handler.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/client.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/UsersList.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/UsersList.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/client.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/client.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utils.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Utils.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Main.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/crypto_handler.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/constants.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file:///usr/local/include/boost/system/detail/error_code.hpp" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/exceptions.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -97,9 +103,9 @@
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <list>
@@ -141,6 +147,7 @@
       <workItem from="1646684863186" duration="2972000" />
       <workItem from="1646688750545" duration="203000" />
       <workItem from="1646747247399" duration="1057000" />
+      <workItem from="1647186620637" duration="1433000" />
     </task>
     <task id="LOCAL-00001" summary="CMakeLists.txt update">
       <created>1646747322516</created>
@@ -190,16 +197,12 @@
     <MESSAGE value="CMakeLists.txt update" />
     <MESSAGE value="instructions update" />
     <MESSAGE value="added .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added .gitignore" />
+    <MESSAGE value="modified crypto_handler to use random instead of _rdrand32_step for universal support. (Arm / x86)" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified crypto_handler to use random instead of _rdrand32_step for universal support. (Arm / x86)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/crypto_handler.cpp</url>
-          <line>117</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/client.cpp</url>
           <line>449</line>

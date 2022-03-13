@@ -39,7 +39,7 @@ public:
     std::string getUserNameByUUID(const bytes &uid);
 
     // prints out the list of registered users in the server.
-    void getUserList();
+    void printUserList();
 
     //sets user public key (if exist)
     void setPublicKey(const bytes &uid, const bytes &pubkey);
