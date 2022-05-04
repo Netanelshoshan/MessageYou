@@ -168,6 +168,7 @@ def read(conn, mask):
 
 
 def main():
+    # Binding a socket to all network interfaces should be AVIODED.
     host = ''
     f = open("port.info", "r")
     port = int(f.read())
