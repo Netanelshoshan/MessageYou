@@ -1,12 +1,19 @@
 cmake_minimum_required(VERSION 3.21)
-
 project(client)
-
 message(STATUS "start running cmake...")
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_FLAGS "-mrdrnd")
-set(cryptopp_DIR /Users/netanel/vcpkg/installed/arm64-osx/share/cryptopp)
-include_directories()
+
+# setting CryptoPP path based on guest arch.
+EXECUTE_PROCESS(COMMAND uname -m COMMAND tr -d '\n' OUTPUT_VARIABLE ARCHITECTURE)
+message(STATUS "Architecture: ${ARCHITECTURE}")
+if (${ARCHITECTURE} STREQUAL "64Bit")
+    set(cryptopp_DIR x64-osx/share/cryptopp)
+else ()
+    set(cryptopp_DIR arm64-osx/share/cryptopp)
+endif ()
+
+include_directories(.)
 add_executable(client
         constants.h
         client.cpp
