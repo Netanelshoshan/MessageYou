@@ -10,6 +10,7 @@ message(STATUS "Architecture: ${ARCHITECTURE}")
 if (${ARCHITECTURE} STREQUAL "64Bit")
     set(cryptopp_DIR x64-osx/share/cryptopp)
 else ()
+    set(CMAKE_OSX_ARCHITECTURES "arm64")
     set(cryptopp_DIR arm64-osx/share/cryptopp)
 endif ()
 
