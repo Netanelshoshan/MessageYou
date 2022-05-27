@@ -267,11 +267,6 @@ bool client::requestBuilder(int selection) {
     }
 }
 
-/* TODO:
- * 1. This method can be static.
- * 2. how to change the return value from unsigned char to unsinged int. What are the consequences?
- *
- * */
 // returns Request code of the given user selection
 uint16_t client::getReqCode(int selection) {
     switch (selection) {
