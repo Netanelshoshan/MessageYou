@@ -2,8 +2,6 @@ cmake_minimum_required(VERSION 3.21)
 project(client)
 message(STATUS "start running cmake...")
 set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_CXX_FLAGS "-mrdrnd")
-
 # setting CryptoPP path based on guest arch.
 EXECUTE_PROCESS(COMMAND uname -m COMMAND tr -d '\n' OUTPUT_VARIABLE ARCHITECTURE)
 message(STATUS "Architecture: ${ARCHITECTURE}")
