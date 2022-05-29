@@ -3,7 +3,7 @@
 End-To-End encrypted chat application that supports file transfer between clients using boost and cryptopp libraries.
 
 ###### The encryption configuration used here is for demonstration purposes only!
-###### Using CBC mode in AES with constant iv value is not recommended, and you should use GCM mode that provides AEAD.
+###### Using CBC mode in AES with constant iv value is not recommended and you should use GCM mode that provides AEAD instead.
 
 ## Installation
 
