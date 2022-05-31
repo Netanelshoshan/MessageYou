@@ -48,7 +48,7 @@ You can use the same steps as above since `vcpkg` is a microsoft product or you 
 ## Instructions
 To secure a connection between two clients, follow these steps:
 1. register both clients.
-2. get the clients list (on both clients).
+2. get the list of clients (on both clients).
 3. A request B's public key.
 4. A request B's symmetric key.
 5. B request for pending messages.
