@@ -22,7 +22,7 @@ Use `brew` package manager to download the latest `cmake` and `boost`.
 
         brew install boost cmake make sqlite   # install Boost, CMake and Makefile and sqlite
 
-* If you want to install the latest version of `CryptoPP` library you can get it using `vcpkg` or you can skip it and use the libs included in the client directory (Iv'e included both x86/ARM versions) .
+* If you want to install the latest version of `CryptoPP` library you can get it using `vcpkg` OR you can skip it and use the libs included in the client directory (Iv'e included both x86/ARM versions, all you need to do is to run the `Makefile`).
 
       brew install vcpkg       # if you don't have vcpkg installed
       vcpkg install cryptopp   # will install the CryptoPP on both x86/ARM architectures.
